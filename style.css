@@ -44,6 +44,10 @@ h1 {
     display: flex;
     /* can't use yet */
     /* gap: 100px; */
+    flex-direction: row;
+
+
+    
 }
 
 .row h2{
