@@ -43,18 +43,12 @@ h1 {
 .row {
     /* display: flex => flex container */
     display: flex;
-
     /* can't use yet */
     /* gap: 100px; */
-    
 }
 
 .row h2{
     color: crimson;
-}
-
-.row2 {
-   display: flex;
 }
 
 .col {
