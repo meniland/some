@@ -45,9 +45,10 @@ h1 {
     /* can't use yet */
     /* gap: 100px; */
     flex-direction: row;
+    width: 100%;
+    height: 1px;
 
-
-    
+    display: block;
 }
 
 .row h2{
