@@ -46,8 +46,9 @@ h1 {
     /* gap: 100px; */
     flex-direction: row;
     height: 1px;
-color: red;
+
     
+    display: contents;
 }
 
 .row h2{
