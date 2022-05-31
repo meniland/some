@@ -45,7 +45,7 @@ h1 {
     /* can't use yet */
     /* gap: 100px; */
     flex-direction: row;
-
+    height: 1px;
 
     
 }
