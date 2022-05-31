@@ -41,7 +41,6 @@ h1 {
 }
 
 .row {
-    /* display: flex => flex container */
     display: flex;
     /* can't use yet */
     /* gap: 100px; */
