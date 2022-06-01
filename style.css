@@ -41,21 +41,6 @@ h1 {
 }
 
 .row {
-    display: flex;
-    /* can't use yet */
-    /* gap: 100px; */
-    flex-direction: row;
-
-
-    
-    display: block;
-color: red;
-    
-    display: contents;
-display: flow-root;
-
-    /* another something */
-    //
 }
 
 .row h2{
